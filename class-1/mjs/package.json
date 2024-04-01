@@ -1,0 +1,27 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "description": "aprendiendo node.js",
+  "main": "fs-async-await.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroLargo1031/node.js.git"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "Alejandro"
+  ],
+  "author": "Alejandro Largo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroLargo1031/node.js/issues"
+  },
+  "homepage": "https://github.com/AlejandroLargo1031/node.js#readme",
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  }
+}
